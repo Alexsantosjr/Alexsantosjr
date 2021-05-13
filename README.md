@@ -1,6 +1,6 @@
 ### Olá mundo! Me chamo Alexandre 👋
 
-💻 Desenvolvedor Jr - Tecnologia Embarcada Auto Viação 1001 🏡 Brasileiro 🌎 Nova Friburgo - RJ ✈️ Brasil
+💻 Front End Developer -  🏡 Brasileiro 🌎 Nova Friburgo - RJ ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
