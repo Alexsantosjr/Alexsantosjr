@@ -13,5 +13,5 @@
 📚 Aluno da RocketSeat<br>
 💛 JS is life!<br>
 
-Obrigada pela visita!
+Obrigado pela visita!
 </samp>
