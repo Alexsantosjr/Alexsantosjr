@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexsantosjr/)](https://www.instagram.com/alexsantosjr/)
 
 
-💻 Atualmente desenvolvo e estudo totalmente na Stack de JS back-end e front-end<br>
+💻 Atualmente focado no desenvolvimento de aplicações com a stack de Javascript.<br>
 📚 Aluno da RocketSeat<br>
 💛 JS is life!<br>
 
